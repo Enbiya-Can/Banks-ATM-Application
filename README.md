@@ -9,13 +9,14 @@ Bakiye Sorgulama: Hesap bakiyesi görüntülenebilir.
 Para Yatırma: Hesaba para yatırılabilir.
 Para Çekme: Hesaptan para çekilebilir.
 Hesap Bilgileri: Kullanıcılar hesap bilgilerini görüntüleyebilir.
- <!-- Özelliklerin bir görüntüsünü ekleyebilirsiniz -->
+
 ![image](https://github.com/user-attachments/assets/4de4032a-a796-44fc-a333-4bbf6556d574)
 
 ![image](https://github.com/user-attachments/assets/337a27ba-ac30-4330-a685-2f73076d7233)
+
 Şifreti eğer yanlış girerseniz giriş yapamamakta ve tekrar girmek için enter tuşuna basınız.
 
- <!-- Menü ekranını burada gösterebilirsiniz -->
+ 
 
 Bakiye sorgulama
 Para yatırma
