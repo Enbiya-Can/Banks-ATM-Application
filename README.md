@@ -10,30 +10,8 @@ Para Yatırma: Hesaba para yatırılabilir.
 Para Çekme: Hesaptan para çekilebilir.
 Hesap Bilgileri: Kullanıcılar hesap bilgilerini görüntüleyebilir.
  <!-- Özelliklerin bir görüntüsünü ekleyebilirsiniz -->
+![image](https://github.com/user-attachments/assets/4de4032a-a796-44fc-a333-4bbf6556d574)
 
-Kurulum
-Projeyi klonlayın:
-
-bash
-Copy code
-git clone https://github.com/kullaniciadi/banka-atm.git
-Proje dizinine gidin:
-
-bash
-Copy code
-cd banka-atm
-Uygulamayı derleyin:
-
-bash
-Copy code
-g++ main.cpp -o BankaATM
-Uygulamayı çalıştırın:
-
-bash
-Copy code
-./BankaATM
-Kullanım
-Uygulama açıldığında, bir kullanıcı adı ve şifre ile giriş yapmanız istenecek. Giriş yaptıktan sonra, uygulama size şu seçenekleri sunar:
 
  <!-- Menü ekranını burada gösterebilirsiniz -->
 
@@ -44,22 +22,3 @@ Hesap bilgileri görüntüleme
 Çıkış yapma
 İlgili seçeneği seçmek için menü numarasını girin.
 
-Katkıda Bulunma
-Katkıda bulunmak isterseniz, lütfen şu adımları izleyin:
-
-Projeyi forkladıktan sonra bir branch oluşturun:
-
-bash
-Copy code
-git checkout -b ozellik-adi
-Değişikliklerinizi yapın ve commit edin:
-
-bash
-Copy code
-git commit -m "Yeni bir özellik eklendi"
-Branch'inizi gönderin:
-
-bash
-Copy code
-git push origin ozellik-adi
-Bir Pull Request açın.
